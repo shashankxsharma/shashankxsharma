@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Shashank 👋
 
-<!--
-**shashankxsharma/shashankxsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Full Stack Developer (In Progress → Industry Ready)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+* Java (Core + OOP + DSA)
+* Spring Boot (Learning → Building real APIs)
+* MySQL / PostgreSQL
+* REST APIs
+* Git & GitHub
+* Basic Frontend (HTML, CSS, JS)
+
+---
+
+## 🔥 Current Focus
+
+* Building real-world backend systems
+* Writing clean, production-level code
+* Solving DSA daily
+
+---
+
+## 📌 Projects (Building in Public)
+
+* 🔐 Authentication System (JWT + Role-based access)
+* 🌐 REST API (Production-ready structure)
+* 🔗 URL Shortener
+* 💬 Chat Backend System
+
+---
+
+## 📈 GitHub Goals
+
+* Daily commits
+* Real-world projects only
+* Industry-level code quality
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: (add later)
